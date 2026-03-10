@@ -5,4 +5,4 @@
 - Cloud, Data, Entreprenurship<br/>
 - I love to build, yap, and learn!<br/>
 
-Check out my [LinkedIn]{https://www.linkedin.com/in/sharvari-purighalla} and [Instagram]{https://www.instagram.com/sharvari_purighalla/}
+Check out my [LinkedIn](https://www.linkedin.com/in/sharvari-purighalla) and [Instagram](https://www.instagram.com/sharvari_purighalla/)
