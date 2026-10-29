@@ -2,7 +2,8 @@
 
 
 - Computational Data Science Student @ Penn State<br/>
-- Cloud, Data, Entreprenurship<br/>
+- AI Engineer @ IBM
+- AI, Cloud, Data, Entrepreneurship<br/>
 - I love to build, yap, and learn!<br/>
 
 
